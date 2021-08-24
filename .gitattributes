@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+Plotly[[:space:]]and[[:space:]]Cufflinks[[:space:]]Crash[[:space:]]Course.ipynb filter=lfs diff=lfs merge=lfs -text
